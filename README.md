@@ -1,4 +1,3 @@
-Using NLTK in python to remove stop words
 import nltk
 from nltk.corpus import stopwords
 import string
